@@ -19,3 +19,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+# Mock-Up
+![alt tag] (https://github.com/hvasconez24/Java-Quiz/blob/main/assets/images/04-web-apis-homework-demo.gif)
