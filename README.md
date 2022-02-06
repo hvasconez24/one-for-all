@@ -20,4 +20,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 # Mock-Up
-![alt tag](https://github.com/hvasconez24/Java-Quiz/blob/main/assets/images/04-web-apis-homework-demo.gif)
+![alt tag](https://github.com/hvasconez24/one-for-all/blob/main/Assets/Images/05-third-party-apis-homework-demo.gif)
