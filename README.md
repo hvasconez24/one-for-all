@@ -1,6 +1,6 @@
 # ONE FOR ALL
 Deployed Link: 
-
+https://hvasconez24.github.io/one-for-all/
 # User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
